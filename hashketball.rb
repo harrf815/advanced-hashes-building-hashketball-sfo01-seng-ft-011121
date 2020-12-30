@@ -1,6 +1,6 @@
 binding 'pry'
 # Write your code here!
-def game_hash(game_hash)
+def game_hash
   game_hash = {
     :home => {
       :team_name => "Brookyln Nets",
@@ -122,7 +122,6 @@ def game_hash(game_hash)
         :blocks => 5,
         :slam_dunks => 12
         }
-        ]
+      ]
     }
-    ]
   }
