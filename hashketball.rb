@@ -1,7 +1,7 @@
 binding 'pry'
 # Write your code here!
 def game_hash
-  game_hash = {
+  {
     :home => {
       :team_name => "Brookyln Nets",
       :colors => ["Black", "White" ],
